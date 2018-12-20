@@ -19,12 +19,16 @@
 
 ---
 
-# Assignment 11
+# Assignment 12
 
-## Follow the steps we did in class 
+## Do the following:
+- Spin up the cluster with the necessary containers.
+- Run your web app.
+- Generate data.
+- Write events & check to make sure you were successful.
+- Run queries with Presto - at least Select * from <your-table-name>
 
-
-### Turn in your `/assignment-10-<user-name>/README.md` file. It should include:
+### Turn in your `/assignment-12-<user-name>/README.md` file. It should include:
 1) A summary type explanation of the example. 
   * For example, for Week 6's activity, a summary would be: "We spun up a cluster with kafka, zookeeper, and the mids container. Then we published and consumed messages with kafka."
 2) Your `docker-compose.yml`
